@@ -18,5 +18,6 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 <br><br><br>
 
 
+我的QR CODE
 
-<img src="https://github.com/C108252278/C108252278/blob/main/GDZNGZ0MX3%20(1).jpg)" width=100 height=100/>
+<img src="https://github.com/C108252278/C108252278/blob/main/GDZNGZ0MX3%20(1).jpg" width=100 height=100/>
